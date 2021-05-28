@@ -1,15 +1,5 @@
-# Building a Simple Chatbot from Scratch in Python (using NLTK)
-
-# Outline
-* [Pre-requisites](#pre-requisites)
-* [How to run](#how-to-run)
-
-## Pre-requisites
-**NLTK(Natural Language Toolkit)**
-
-[Natural Language Processing with Python](http://www.nltk.org/book/) provides a practical introduction to programming for language processing.
-
-For platform-specific instructions, read [here](https://www.nltk.org/install.html)
+# Building Chatbot using NLTK
+First a terminal chatbot then integrate this to messaging app to do trading.
 
 ### Installation of NLTK
 ```
@@ -26,7 +16,6 @@ nltk.download('wordnet')
 ```
 
 ## How to run
-* Through Terminal
 ```
 python3 chatbot.py
 ```
